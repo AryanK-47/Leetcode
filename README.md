@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/AryanK-47/Leetcode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/AryanK-47/Leetcode/tree/master/0057-insert-interval) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AryanK-47/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Binary Search
 |  |
