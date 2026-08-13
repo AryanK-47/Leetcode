@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/AryanK-47/Leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/AryanK-47/Leetcode/tree/master/0071-simplify-path) |
+| [0402-remove-k-digits](https://github.com/AryanK-47/Leetcode/tree/master/0402-remove-k-digits) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AryanK-47/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/AryanK-47/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Stack
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/AryanK-47/Leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/AryanK-47/Leetcode/tree/master/0071-simplify-path) |
+| [0402-remove-k-digits](https://github.com/AryanK-47/Leetcode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/AryanK-47/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/AryanK-47/Leetcode/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AryanK-47/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/AryanK-47/Leetcode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/AryanK-47/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/AryanK-47/Leetcode/tree/master/0739-daily-temperatures) |
 | [2487-remove-nodes-from-linked-list](https://github.com/AryanK-47/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
@@ -85,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/AryanK-47/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/AryanK-47/Leetcode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
