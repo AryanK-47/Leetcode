@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/AryanK-47/Leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/AryanK-47/Leetcode/tree/master/0071-simplify-path) |
+| [0383-ransom-note](https://github.com/AryanK-47/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AryanK-47/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/AryanK-47/Leetcode/tree/master/0402-remove-k-digits) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AryanK-47/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -97,9 +98,11 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/AryanK-47/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AryanK-47/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/AryanK-47/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AryanK-47/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
