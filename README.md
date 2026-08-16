@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/AryanK-47/Leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/AryanK-47/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/AryanK-47/Leetcode/tree/master/0057-insert-interval) |
 | [0503-next-greater-element-ii](https://github.com/AryanK-47/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/AryanK-47/Leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/AryanK-47/Leetcode/tree/master/0056-merge-intervals) |
 ## Quicksort
 |  |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/AryanK-47/Leetcode/tree/master/0018-4sum) |
 | [0986-interval-list-intersections](https://github.com/AryanK-47/Leetcode/tree/master/0986-interval-list-intersections) |
 ## Sweep Line
 |  |
