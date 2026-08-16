@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0018-4sum](https://github.com/AryanK-47/Leetcode/tree/master/0018-4sum) |
+| [0844-backspace-string-compare](https://github.com/AryanK-47/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0986-interval-list-intersections](https://github.com/AryanK-47/Leetcode/tree/master/0986-interval-list-intersections) |
 ## Sweep Line
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/AryanK-47/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/AryanK-47/Leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/AryanK-47/Leetcode/tree/master/0409-longest-palindrome) |
+| [0844-backspace-string-compare](https://github.com/AryanK-47/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AryanK-47/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/AryanK-47/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Stack
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0402-remove-k-digits](https://github.com/AryanK-47/Leetcode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/AryanK-47/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/AryanK-47/Leetcode/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/AryanK-47/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AryanK-47/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/AryanK-47/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2487-remove-nodes-from-linked-list](https://github.com/AryanK-47/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
@@ -111,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0383-ransom-note](https://github.com/AryanK-47/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AryanK-47/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/AryanK-47/Leetcode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
