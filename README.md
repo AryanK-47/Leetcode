@@ -93,11 +93,13 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/AryanK-47/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/AryanK-47/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [2487-remove-nodes-from-linked-list](https://github.com/AryanK-47/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/AryanK-47/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [2487-remove-nodes-from-linked-list](https://github.com/AryanK-47/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Greedy
 |  |
