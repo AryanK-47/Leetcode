@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0018-4sum](https://github.com/AryanK-47/Leetcode/tree/master/0018-4sum) |
+| [0061-rotate-list](https://github.com/AryanK-47/Leetcode/tree/master/0061-rotate-list) |
 | [0844-backspace-string-compare](https://github.com/AryanK-47/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0986-interval-list-intersections](https://github.com/AryanK-47/Leetcode/tree/master/0986-interval-list-intersections) |
 ## Sweep Line
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/AryanK-47/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/AryanK-47/Leetcode/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/AryanK-47/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [2487-remove-nodes-from-linked-list](https://github.com/AryanK-47/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
