@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AryanK-47/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AryanK-47/Leetcode/tree/master/0162-find-peak-element) |
 | [0275-h-index-ii](https://github.com/AryanK-47/Leetcode/tree/master/0275-h-index-ii) |
+| [0410-split-array-largest-sum](https://github.com/AryanK-47/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0503-next-greater-element-ii](https://github.com/AryanK-47/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/AryanK-47/Leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/AryanK-47/Leetcode/tree/master/0739-daily-temperatures) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AryanK-47/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AryanK-47/Leetcode/tree/master/0162-find-peak-element) |
 | [0275-h-index-ii](https://github.com/AryanK-47/Leetcode/tree/master/0275-h-index-ii) |
+| [0410-split-array-largest-sum](https://github.com/AryanK-47/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/AryanK-47/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AryanK-47/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AryanK-47/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/AryanK-47/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AryanK-47/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Monotonic Queue
 |  |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0402-remove-k-digits](https://github.com/AryanK-47/Leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/AryanK-47/Leetcode/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/AryanK-47/Leetcode/tree/master/0410-split-array-largest-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -151,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AryanK-47/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/AryanK-47/Leetcode/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
