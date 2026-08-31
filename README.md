@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AryanK-47/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/AryanK-47/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0503-next-greater-element-ii](https://github.com/AryanK-47/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0692-top-k-frequent-words](https://github.com/AryanK-47/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/AryanK-47/Leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/AryanK-47/Leetcode/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AryanK-47/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AryanK-47/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AryanK-47/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0692-top-k-frequent-words](https://github.com/AryanK-47/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AryanK-47/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Prefix Sum
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0056-merge-intervals](https://github.com/AryanK-47/Leetcode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AryanK-47/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AryanK-47/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0692-top-k-frequent-words](https://github.com/AryanK-47/Leetcode/tree/master/0692-top-k-frequent-words) |
 ## Quicksort
 |  |
 | ------- |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/AryanK-47/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/AryanK-47/Leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/AryanK-47/Leetcode/tree/master/0409-longest-palindrome) |
+| [0692-top-k-frequent-words](https://github.com/AryanK-47/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0844-backspace-string-compare](https://github.com/AryanK-47/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AryanK-47/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/AryanK-47/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -156,11 +160,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [0383-ransom-note](https://github.com/AryanK-47/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AryanK-47/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/AryanK-47/Leetcode/tree/master/0409-longest-palindrome) |
+| [0692-top-k-frequent-words](https://github.com/AryanK-47/Leetcode/tree/master/0692-top-k-frequent-words) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/AryanK-47/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AryanK-47/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0692-top-k-frequent-words](https://github.com/AryanK-47/Leetcode/tree/master/0692-top-k-frequent-words) |
 ## Simulation
 |  |
 | ------- |
@@ -193,4 +199,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AryanK-47/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/AryanK-47/Leetcode/tree/master/0692-top-k-frequent-words) |
+## Bucket Sort
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/AryanK-47/Leetcode/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
