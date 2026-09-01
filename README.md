@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0275-h-index-ii](https://github.com/AryanK-47/Leetcode/tree/master/0275-h-index-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AryanK-47/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/AryanK-47/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0502-ipo](https://github.com/AryanK-47/Leetcode/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/AryanK-47/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0658-find-k-closest-elements](https://github.com/AryanK-47/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/AryanK-47/Leetcode/tree/master/0692-top-k-frequent-words) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AryanK-47/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AryanK-47/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0502-ipo](https://github.com/AryanK-47/Leetcode/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/AryanK-47/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/AryanK-47/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/AryanK-47/Leetcode/tree/master/0767-reorganize-string) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0056-merge-intervals](https://github.com/AryanK-47/Leetcode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AryanK-47/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AryanK-47/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0502-ipo](https://github.com/AryanK-47/Leetcode/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/AryanK-47/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/AryanK-47/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/AryanK-47/Leetcode/tree/master/0767-reorganize-string) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0402-remove-k-digits](https://github.com/AryanK-47/Leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/AryanK-47/Leetcode/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/AryanK-47/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0502-ipo](https://github.com/AryanK-47/Leetcode/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/AryanK-47/Leetcode/tree/master/0767-reorganize-string) |
 ## Hash Table
 |  |
