@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AryanK-47/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/AryanK-47/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0503-next-greater-element-ii](https://github.com/AryanK-47/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0658-find-k-closest-elements](https://github.com/AryanK-47/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/AryanK-47/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/AryanK-47/Leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/AryanK-47/Leetcode/tree/master/0739-daily-temperatures) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0275-h-index-ii](https://github.com/AryanK-47/Leetcode/tree/master/0275-h-index-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AryanK-47/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/AryanK-47/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0658-find-k-closest-elements](https://github.com/AryanK-47/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/AryanK-47/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0704-binary-search](https://github.com/AryanK-47/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AryanK-47/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -59,12 +61,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/AryanK-47/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AryanK-47/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AryanK-47/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AryanK-47/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/AryanK-47/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/AryanK-47/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AryanK-47/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0973-k-closest-points-to-origin](https://github.com/AryanK-47/Leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -84,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0056-merge-intervals](https://github.com/AryanK-47/Leetcode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AryanK-47/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AryanK-47/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/AryanK-47/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/AryanK-47/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/AryanK-47/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Quicksort
@@ -95,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0018-4sum](https://github.com/AryanK-47/Leetcode/tree/master/0018-4sum) |
 | [0061-rotate-list](https://github.com/AryanK-47/Leetcode/tree/master/0061-rotate-list) |
+| [0658-find-k-closest-elements](https://github.com/AryanK-47/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0844-backspace-string-compare](https://github.com/AryanK-47/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0986-interval-list-intersections](https://github.com/AryanK-47/Leetcode/tree/master/0986-interval-list-intersections) |
 ## Sweep Line
