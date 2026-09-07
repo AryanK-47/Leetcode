@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/AryanK-47/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/AryanK-47/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0509-fibonacci-number](https://github.com/AryanK-47/Leetcode/tree/master/0509-fibonacci-number) |
 | [2487-remove-nodes-from-linked-list](https://github.com/AryanK-47/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Greedy
 |  |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/AryanK-47/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0509-fibonacci-number](https://github.com/AryanK-47/Leetcode/tree/master/0509-fibonacci-number) |
 ## Matrix
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/AryanK-47/Leetcode/tree/master/0509-fibonacci-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/AryanK-47/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0973-k-closest-points-to-origin](https://github.com/AryanK-47/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
@@ -250,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/AryanK-47/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/AryanK-47/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
